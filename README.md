@@ -38,7 +38,7 @@ click "Past month"
 ( *The install process may take several minutes*)
 
 ```
-$ npm install -g git+https://<new_repo_url>
+$ npm install -g git+ssh://git@github.com/syscolabs/kasaya.git
 ```
 
 # Getting started
