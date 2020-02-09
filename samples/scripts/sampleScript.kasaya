@@ -1,0 +1,12 @@
+how to runScript $browser $url $text $key
+  open $url
+  type $text
+  press $key
+  read "Lifespan: 2 – ${age} years (In the wild)"
+end
+
+start
+    runScript "chrome" "google.lk" "cat" "enter"
+end
+
+

@@ -1,0 +1,36 @@
+{
+  "id": "0001",
+  "name": "Donut",
+  "batters": {
+    "batter": [
+      {
+        "id": "1001",
+        "type": "Regular"
+      },
+      {
+        "id": "1002",
+        "type": "Chocolate"
+      },
+      {
+        "id": "1003",
+        "type": "Blueberry"
+      }
+    ]
+  },
+  "toppings": {
+    "topping": [
+      {
+        "id": "5001",
+        "type": "None"
+      },
+      {
+        "id": "5002",
+        "type": "Glazed"
+      },
+      {
+        "id": "5005",
+        "type": "Sugar"
+      }
+    ]
+  }
+}
