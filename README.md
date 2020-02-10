@@ -2,17 +2,15 @@
 
 # Kasāya: browser automation for human beings
 
-Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts with **zero coding and zero knowledge of the underlying HTML**. You can instruct Kasaya the same way you would instruct another human being sitting in front of a computer with a browser open. Like this:
+Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts with **zero coding and zero knowledge of the underlying HTML**. You can instruct Kasaya the same way you would instruct another human being sitting in front of a computer with a browser open. **What You See Is What You Write**:
 
 ```
+# verify that the maximum lifespan of a cat according to google is 20 years
 open "google.com"
 type "cat"
 press enter
 read "Lifespan: ${min} – ${max} years" near "Family"
 check if $max is "20"
-click "Tools"
-click "Any time"
-click "Past month"
 ```
 
 ![demo](./docs/images/new-demo-01.gif)
