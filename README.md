@@ -1,4 +1,4 @@
-<img src="./docs/images/Logo-Kasaya-v5-without-text.png" width="150px" />
+<img src="./docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
 
 # Kasāya: browser automation for human beings
 
