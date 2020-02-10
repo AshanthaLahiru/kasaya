@@ -1,4 +1,4 @@
-<img src="./docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
+<img src="https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
 
 # Kasaya: browser automation for human beings
 
@@ -13,7 +13,7 @@ read "Lifespan: ${min} – ${max} years" near "Family"
 check if $max is "20"
 ```
 
-![demo](./docs/images/new-demo-01.gif)
+![demo](https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/new-demo-01.gif)
 
 # Table of Contents
 
@@ -36,7 +36,7 @@ check if $max is "20"
 ( *The install process may take several minutes*)
 
 ```
-$ npm install -g git+ssh://git@github.com/syscolabs/kasaya.git
+$ npm install -g kasaya
 ```
 
 # Getting started
@@ -111,7 +111,7 @@ read ${sender} from row "Test email" column "Sender"
 print $sender
 ```
 
-[More commands](docs/command-summary.md)
+[More commands](https://github.com/syscolabs/kasaya/blob/master/docs/command-summary.md)
   
 # FAQ
 
