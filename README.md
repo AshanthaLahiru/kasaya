@@ -19,8 +19,8 @@ click "Past month"
 
 # Table of Contents
 
-- [Installation (for users)](#installation-for-users)
-- [Installation (for developers)](#installation-for-developers)
+- [Installation](#installation)
+- [Getting started](#getting-started)
 - [Grammar](#grammar)
 - [Command reference](#command-reference)
 - [FAQ](#faq)
