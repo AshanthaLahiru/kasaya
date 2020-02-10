@@ -1,6 +1,6 @@
 <img src="./docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
 
-# Kasāya: browser automation for human beings
+# Kasaya: browser automation for human beings
 
 Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts with **zero coding and zero knowledge of the underlying HTML**. You can instruct Kasaya the same way you would instruct another human being sitting in front of a computer with a browser open. **What You See Is What You Write**:
 
