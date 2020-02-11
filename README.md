@@ -13,7 +13,7 @@ read "Lifespan: ${min} – ${max} years" near "Family"
 check if $max is "20"
 ```
 
-![demo](https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/new-demo-01.gif)
+![demo](https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/cat-age.gif)
 
 # Table of Contents
 
@@ -21,6 +21,7 @@ check if $max is "20"
 - [Getting started](#getting-started)
 - [Grammar](#grammar)
 - [Command reference](#command-reference)
+- [VS Code Extension](#vs-code-extension)
 - [FAQ](#faq)
 
 # Installation
@@ -112,7 +113,11 @@ print $sender
 ```
 
 [More commands](https://github.com/syscolabs/kasaya/blob/master/docs/command-summary.md)
-  
+
+# VS Code Extension
+
+Get ​Visual Studio Code extension for Kasāya scripting from [here](https://github.com/syscolabs/kasaya-vsix)
+ 
 # FAQ
 
 ## Where does the name "Kasaya" come from?
