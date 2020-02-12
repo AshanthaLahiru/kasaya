@@ -13,7 +13,14 @@ read "Lifespan: ${min} – ${max} years" near "Family"
 check if $max is "20"
 ```
 
-![demo](https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/cat-age.gif)
+---
+
+<img src="https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/cat-age.gif" 
+  width="750px" 
+  style="border-style:solid"
+/>
+
+---
 
 # Table of Contents
 
