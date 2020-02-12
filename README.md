@@ -146,3 +146,9 @@ Kasaya was envisioned and developed entirely by the folks at Sysco LABS, Sri Lan
 ## What is the current status of Kasaya?
 
 As of this writing (Jan 2020), Kasaya is in public beta, which means while all the basics work, there's a lot to be ironed out before we can get to version 1.0. 
+
+## Can I contribute?
+
+Eventually, yes! For now, please be patient with us -- we don't yet have a dedicated developer who can work with the community. But we're trying to get there, stay tuned!
+
+But if you find bugs, or have great ideas, let us know!
