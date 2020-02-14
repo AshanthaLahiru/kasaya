@@ -2,7 +2,8 @@
 
 # Kasaya: browser automation for human beings
 
-* Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts with **zero coding and zero knowledge of the underlying HTML**. 
+* Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts
+* It is entirely WYSIWYG -- NO HTML, IDs, XPATHs involved.
 * You can instruct Kasaya the **same way you would instruct another human being** sitting in front of a computer with a browser open. 
 * **What You See Is What You Write**:
 
