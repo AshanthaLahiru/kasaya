@@ -52,6 +52,8 @@ $ npm install -g kasaya
 
 (*Installation might take a few minutes*)
 
+Found a bug? Please [let us know](https://github.com/syscolabs/kasaya/issues). Kasaya is still early beta, but we want to improve.
+
 # Getting started
 
 ### Interactive mode
