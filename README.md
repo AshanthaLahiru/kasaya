@@ -1,11 +1,22 @@
 <img src="https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
 
-# Kasaya: browser automation for human beings
+# Kasaya
 
-* Kasaya is an intelligent natural language browser automation tool that allows you to write English-like test scripts
-* It is entirely WYSIWYG -- NO HTML, IDs, XPATHs involved.
-* You can instruct Kasaya the **same way you would instruct another human being** sitting in front of a computer with a browser open. 
-* **What You See Is What You Write**:
+### "WYSIWYG" browser automation scripting language and runtime
+
+* Write tests in near-English.
+* HTML, element IDs or XPATHs not involved.
+* Zero coding involved.
+* Write the **same way you would instruct another human being** sitting in front of the browser.
+* NOT like Cucumber.
+* NOT like Selenium IDE.
+* You can:
+  * Do your initial dev test in REPL mode.
+  * Save as a script.
+  * Share with QA to expand the scenarios.
+  * Even share with the product manager.
+
+### What You See Is What You Write:
 
 ---
 
@@ -29,17 +40,19 @@
 
 ( *requirements : Java 8 or above, Chrome version > 66*)
 
-1. Download and install Node.js for your operating system from [here](https://nodejs.org/en/download/)
+You need:
 
-2. Open a terminal window
+1. Java 8 or higher ([download](https://www.oracle.com/java/technologies/javase-jre8-downloads.html))
+2. Google Chrome version 66 or higher ([download](https://www.google.com/chrome/))
+3. Node.js version 12 or higher ([download](https://nodejs.org/en/download/))
 
-3. Run the following command
-
-( *The install process may take several minutes*)
+Run on a terminal window (on Linux, you may need `sudo`)
 
 ```
 $ npm install -g kasaya
 ```
+
+(*Installation might take a few minutes*)
 
 # Getting started
 
