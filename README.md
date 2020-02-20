@@ -2,7 +2,7 @@
 
 # Kasaya
 
-### "WYSIWYG" browser automation scripting language and runtime
+### A "WYSIWYG" scripting language and runtime for browser automation
 
 * Write tests in near-English.
 * HTML, element IDs or XPATHs not involved.
