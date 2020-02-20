@@ -59,8 +59,8 @@ Found a bug? Please [let us know](https://github.com/syscolabs/kasaya/issues). K
 ### Interactive mode
 
 ```
-$ kasaya
-Kasāya> open "google.com"
+$ kasaya                     # browser window will open
+Kasāya> open "google.com"    # executed in browser as you type
 Kasāya> type "cat"
 Kasāya> press enter
 Kasāya> read "Lifespan: ${min} – ${max} years" near "Family"
