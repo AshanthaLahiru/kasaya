@@ -42,7 +42,7 @@
 
 You need:
 
-1. Java 8 or higher ([download](https://www.oracle.com/java/technologies/javase-jre8-downloads.html))
+1. Java 8 or higher ([download](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html))
 2. Google Chrome version 66 or higher ([download](https://www.google.com/chrome/))
 3. Node.js version 12 or higher ([download](https://nodejs.org/en/download/))
 
