@@ -4,15 +4,15 @@
 
 ### A "WYSIWYG" scripting language and runtime for browser automation
 
-* Write tests in near-English.
-* HTML, element IDs or XPATHs not involved.
-* Zero coding involved.
+* Write test scripts using English-like statements.
+* NO coding required to implement those statements.
+* Not dependent on HTML IDs or XPaths.
 * Write the **same way you would instruct another human being** sitting in front of the browser.
 * NOT like Cucumber.
 * NOT like Selenium IDE.
 * You can:
   * Do your initial dev test in REPL mode.
-  * Save as a script.
+  * Save the statements as a script.
   * Share with QA to expand the scenarios.
   * Even share with the product manager.
 
@@ -38,11 +38,9 @@
 
 # Installation
 
-( *requirements : Java 8 or above, Chrome version > 66*)
+First, you need:
 
-You need:
-
-1. Java 8 or higher ([download](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html))
+1. Java JDK ([download](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html))
 2. Google Chrome version 66 or higher ([download](https://www.google.com/chrome/))
 3. Node.js version 12 or higher ([download](https://nodejs.org/en/download/))
 
@@ -87,6 +85,8 @@ $ kasaya cat.kasaya
 
 # Grammar
 
+*TODO: Improve this section*
+
 Kasaya's grammar is based on [JARVIS](https://github.com/hliyan/jarvis), which is a rudimentary natural lanugage tool based on pattern matching. Targeted for test automation, it currently lacks certain basic programming language features such as conditionals and loops.
 
 ### Phrases
@@ -128,12 +128,13 @@ check if $username is "johnsmith@google.com"
 read ${sender} from row "Test email" column "Sender"
 print $sender
 ```
+*TODO: Improve this section*
 
 [More commands](https://github.com/syscolabs/kasaya/blob/master/docs/command-summary.md)
 
 # VS Code Extension
 
-Get ​Visual Studio Code extension for Kasāya scripting from [here](https://github.com/syscolabs/kasaya-vsix)
+Get Visual Studio Code extension for Kasāya scripting from [here](https://github.com/syscolabs/kasaya-vsix)
  
 # FAQ
 
@@ -162,3 +163,7 @@ As of this writing (Jan 2020), Kasaya is in public beta, which means while all t
 Eventually, yes! For now, please be patient with us -- we don't yet have a dedicated developer who can work with the community. But we're trying to get there, stay tuned!
 
 But if you find bugs, or have great ideas, let us know!
+
+## I found a bug.
+
+Great! Please report it on our issue tracker, with reproduction steps: https://github.com/syscolabs/kasaya/issues
