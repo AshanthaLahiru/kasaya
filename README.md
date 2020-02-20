@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/syscolabs/kasaya/master/docs/images/Logo-Kasaya-v5-with-text.png" width="250px" />
 
-# Kasaya
+# Kasaya (beta)
 
 ### A "WYSIWYG" scripting language and runtime for browser automation
 
