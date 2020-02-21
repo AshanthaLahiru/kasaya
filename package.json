@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node kasaya.js",
-    "postinstall": "./scripts/postinstall.js",
+    "postinstall": "scripts/postinstall.js",
     "pre-commit-lint": "eslint . --fix",
     "lint": "eslint . --fix",
     "test": "jest"
