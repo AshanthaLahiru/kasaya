@@ -89,7 +89,7 @@ $ kasaya cat.kasaya
 
 *TODO: Improve this section*
 
-Kasaya's grammar is based on [JARVIS](https://github.com/hliyan/jarvis), which is a rudimentary natural lanugage tool based on pattern matching. Targeted for test automation, it currently lacks certain basic programming language features such as conditionals and loops.
+Kasaya's grammar is based on [JARVIS](https://github.com/hliyan/jarvis), which is a rudimentary natural language tool based on pattern matching. Targeted for test automation, it currently lacks certain basic programming language features such as conditionals and loops.
 
 ### Phrases
 
